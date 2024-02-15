@@ -1,0 +1,38 @@
+.rasm{
+  width: 350px;
+  height: 260px;
+  overflow: hidden;
+  border-radius: 10%;
+
+}
+.btn{
+  position:relative;
+  display: flex; 
+  bottom: 50px;
+  gap: 10px;
+  justify-content: center;
+
+}
+.ras{
+  width: 350px;
+  display: block;
+}
+.rs{
+  width: 360px;
+  height: 261px;
+}
+.hdn{
+  display: none;
+}
+.bt1{
+  background: none;
+  border: none;
+  background: rgba(50, 200, 90, 0.5);
+  color: white;
+  border-radius: 10px;
+  padding: 4px;
+  padding-right: 10px;
+  padding-left: 10px;
+  border: none;
+  cursor: pointer;
+}
